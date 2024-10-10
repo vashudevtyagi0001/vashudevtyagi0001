@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @vashudevtyagi0001
+- 👋 Hi, I’m @vashudevtyagi
+- 
   ### About Me
 
 * Currently working as a Machine Learning Engineer and Web Developer.
 * Proficient in Python, JavaScript, and HTML/CSS.
 * Experienced with TensorFlow, PyTorch, and scikit-learn for machine learning tasks.
 * Skilled in building responsive web applications using React, Angular, and Vue.js.
+
+
+### Education
+
+* Bachelor of Technology, Computer Science, [Coer University ,Roorkee ], [Graduation Date]
 * 
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, and Web Development.
 - 🌱 I’m currently learning Data Structures and Algorithms, and exploring .
